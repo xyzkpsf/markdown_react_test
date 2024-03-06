@@ -1,6 +1,6 @@
 
 ## What is stansa.ai?
-stansa.ai is an unfiltered GPT-based artificial intelligence interface that allows you to chat, play games, and engage in interactive storytelling
+stansa.ai is an unfiltered GPT-based artificial intelligence interface that allows you to chat, play games, and engage in interactive storytelling.
 <br/><br/>
 ## How do I use stansa.ai?
 In order to use stansa.ai, all you have to do is create an account [here](https://stansa.ai/register) and start chatting away!
